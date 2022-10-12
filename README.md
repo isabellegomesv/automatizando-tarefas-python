@@ -17,7 +17,7 @@ pip install numpy
 pip install openpyxl
 ``` 
 ## Compatibilidade
-Como essa automaização utiliza as coordenadas do mouse, para funcionar em diferentes telas será preciso uma adaptação, sendo assim o arquivo [pos.py](https://github.com/isabellegomesv/automatizando-tarefas-python/blob/master/pos.py) ajudará a achar essas coordenadas.
+Como essa automatização utiliza as coordenadas do mouse, para funcionar em diferentes telas será preciso uma adaptação, sendo assim o arquivo [pos.py](https://github.com/isabellegomesv/automatizando-tarefas-python/blob/master/pos.py) ajudará a achar essas coordenadas.
 
 ## Tecnologias Utilizadas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="80px" height="80px"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="75px" height="75px"/>
