@@ -1,5 +1,5 @@
 # Automatizando envio de Relatórios com Python
-Esse projeto tem como objetivo automatizar o envio de um relátorio diário de vendas, utilizando a biblioteca ***pyautogui*** para controlar o mouse e teclado do computador, simulando entrar em um "sistema" abrindo o chrome e entrando no drive e baixando uma planilha Excel depois analisando os dados com o ***pandas***, por fim enviando um relatório por email.
+Esse projeto tem como objetivo automatizar o envio de um relátorio diário de vendas, utilizando a biblioteca ***pyautogui*** para controlar o mouse e teclado do computador, simulando entrar em um sistema abrindo o chrome e entrando no drive e baixando uma planilha Excel depois analisando os dados com o ***pandas***, por fim enviando um relatório por email.
 
 ## Bibliotecas Necessárias
 Para rodar esse projeto será necessário baixar algumas bibliotecas do Python como:
