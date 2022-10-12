@@ -13,7 +13,7 @@ pip install pandas
 # Numpy
 pip install numpy
 
-# Openpyxl - 
+# Openpyxl
 pip install openpyxl
 ``` 
 ## Compatibilidade
